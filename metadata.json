@@ -1,0 +1,6 @@
+{
+  "name": "Site de Afiliados",
+  "description": "Uma plataforma completa para divulgar links de afiliados, buscar produtos, incorporar widgets de outras lojas e colar links rapidamente com apoio de IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
